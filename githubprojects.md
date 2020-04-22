@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Git Hub Projects
